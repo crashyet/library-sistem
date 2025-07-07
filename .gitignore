@@ -1,0 +1,13 @@
+# Modul
+node_modules/
+
+# Data user
+# data/users.json
+
+ngulik/
+src/bckdashboard.php
+src/peak.php
+src/enqueue.php
+src/cobaundo.php
+
+data1
